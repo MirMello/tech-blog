@@ -1,6 +1,5 @@
 # Tech Blog
 
-# Screenshot
 ![webpage screenshot](./public/images/webpage-screenshot.png)
 
 ## Description
