@@ -20,5 +20,7 @@ An app that allows user to post tech comments to their dashboard
 
 ## Deployment
 
+https://glacial-dawn-32394.herokuapp.com/
+
 ## Made by
 Miranda Mello
